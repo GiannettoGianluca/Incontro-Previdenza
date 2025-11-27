@@ -1,0 +1,5 @@
+{
+  "name": "Sabelli Event Hub",
+  "description": "Post-event engagement platform for Sabelli Consulenti Assicurativi, featuring survey collection, appointment booking, and AI-driven feedback analysis.",
+  "requestFramePermissions": []
+}
